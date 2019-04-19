@@ -2,7 +2,7 @@
     "name": "rob-dark",
     "displayName": "Rob Dark",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.33.0"
     },
