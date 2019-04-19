@@ -72,7 +72,8 @@
       "name": "Built-in constant",
       "scope": "constant.language,variable.language",
       "settings": {
-        "foreground": "#CC8242"
+        "foreground": "#CC8242",
+        "fontStyle": "italic"
       }
     },
     {
