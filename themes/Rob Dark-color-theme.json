@@ -22,7 +22,14 @@
     "editorSuggestWidget.selectedBackground": "#204182cc",
     "badge.background": "#ffffff1a",
     "activityBar.background": "#ffffff1a",
-    "activityBarBadge.background": "#007acc"
+    "activityBarBadge.background": "#007acc",
+    "editorBracketHighlight.foreground1": "#9E7BB0",
+    "editorBracketHighlight.foreground2": "#FFC66D",
+    "editorBracketHighlight.foreground3": "#7A9EC2",
+    "editorBracketHighlight.foreground4": "#6A8759",
+    "editorBracketHighlight.foreground5": "#CCCCCC",
+    "editorBracketHighlight.foreground6": "#CC8242",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#f44747"
   },
   "tokenColors": [
     {
